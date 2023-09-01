@@ -1,0 +1,48 @@
+[
+  {
+    "createdBy": "720ecLVFZ8f5Ssx8GZxeguCV6lD2",
+    "creationDate": 1665734596290,
+    "currentOwner": "720ecLVFZ8f5Ssx8GZxeguCV6lD2",
+    "description": "",
+    "groupId": "Group_zh675",
+    "id": "Response_3lmn3",
+    "isSample": false,
+    "lastModified": 1671017336014,
+    "lastModifiedBy": "720ecLVFZ8f5Ssx8GZxeguCV6lD2",
+    "modificationDate": 1665735253658,
+    "name": "Change Dashboard stats",
+    "objectType": "rule",
+    "pairs": [
+      {
+        "id": "9of20",
+        "response": {
+          "statusCode": "200",
+          "statusText": "OK",
+          "type": "static",
+          "value": "{\n    \"totalUsers\": 4847831,\n    \"isUpdated\": false,\n    \"lastUpdate\": \"2022-10-13T20:35:56.000+00:00\",\n    \"conversionRate\": 0.1193135651799743,\n    \"purchases\": 679047.0,\n    \"revenue\": 76119948.65,\n    \"arpu\": 15.701856902602422,\n    \"aov\": 116.09820329078842,\n    \"pvpu\": 13.363646546259554\n}"
+        },
+        "source": {
+          "key": "Url",
+          "operator": "Contains",
+          "value": "dashboard_server/sp_data"
+        }
+      }
+    ],
+    "ruleType": "Response",
+    "status": "Active"
+  },
+  {
+    "children": [],
+    "createdBy": "720ecLVFZ8f5Ssx8GZxeguCV6lD2",
+    "creationDate": 1665735237875,
+    "currentOwner": "720ecLVFZ8f5Ssx8GZxeguCV6lD2",
+    "description": "",
+    "id": "Group_zh675",
+    "lastModified": 1665735324259,
+    "lastModifiedBy": "720ecLVFZ8f5Ssx8GZxeguCV6lD2",
+    "modificationDate": 1691155079560,
+    "name": "Demo Data",
+    "objectType": "group",
+    "status": "Active"
+  }
+]
