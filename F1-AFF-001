@@ -1,1 +1,13 @@
-
+{
+	"categories": {
+		"Teams": 100.0
+    "F1 Unlocked": 110.0
+	},
+	"Team": {
+		"Aston Martin": 120.0
+	},
+	"keywords": {
+		"Alonso ": 90.0,
+   		 "Spain": 90.0
+	}
+}
