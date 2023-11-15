@@ -1,0 +1,28 @@
+{
+	"categories": {
+		"Christmas Limited Editions": 100.0
+	},
+	"brand": {
+		"own": 120.0
+	},
+	"Fair_Trade": {
+		"Fair Trade": 100.0
+	},
+	"Skin_Type": {
+		"All Types": 90.0,
+   		 
+	},
+	 "Made_in": {
+   		"France": 80.0
+   
+	 },
+"Vegan_Friendly": {
+   		"Yes": 80.0
+   
+	 },
+	"Featured_Ingrediants": {
+		"Shea Butter": 70.0,
+		"Omega-6": 70.0,
+    		"Karitene": 70.0
+	}
+}
