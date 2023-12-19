@@ -1,0 +1,24 @@
+{
+	"categories": {
+		"Rooms": 100.0
+	},
+	"Location": {
+		"Stockholm": 120.0
+	},
+	"Level": {
+		"Platinum": 100.0
+	},
+	"keywords": {
+		"City": 90.0,
+   		 "Wifi": 90.0
+	},
+	 "Price": {
+   		"Denim": 120.0
+   
+	 },
+	"Dinning": {
+		"Breakfast": 70.0,
+		"DInner": 70.0,
+    		"Half Board": 50.0
+	}
+}
