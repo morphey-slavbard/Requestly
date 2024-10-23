@@ -1,0 +1,15 @@
+{
+   "Reciept_required":{
+      "No":20.0
+   },
+   "Card_Payments_Required":{
+      "In person":60.0
+   },
+"Card_Reader_Preference":{
+      "Clover Flex":100.0
+   },
+   "business_size":{
+      "0-50k":90.0,
+      
+   }
+}
